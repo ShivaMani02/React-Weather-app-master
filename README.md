@@ -12,7 +12,7 @@ Build a weather app in react js using Open Weather API.
 3. Then do npm install & npm start
 
 #### You can follow Tutorial from channel.
-https://youtube.com/c/shivanshvasu
+https://www.youtube.com/@shivanshvasu
 
 -- In the project directory, you can run:
 
@@ -22,5 +22,5 @@ https://youtube.com/c/shivanshvasu
 -- Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
 
 ## Contact
-Comment on Channel: 'https://youtube.com/c/shivanshvasu'
+Comment on Channel: 'https://www.youtube.com/@shivanshvasu'
 Or mail at 'theshivanshvasu@gmail.com' for any queries.
